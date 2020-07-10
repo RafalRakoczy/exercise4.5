@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafalRakoczy/The-first-repository-od-of-rr.git"
+    "url": "git+https://github.com/RafalRakoczy/exercise4.5.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RafalRakoczy/The-first-repository-od-of-rr/issues"
+    "url": "https://github.com/RafalRakoczy/exercise4.5/issues"
   },
-  "homepage": "https://github.com/RafalRakoczy/The-first-repository-od-of-rr#readme",
+  "homepage": "https://github.com/RafalRakoczy/exercise4.5#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.7",
